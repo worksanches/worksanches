@@ -1,4 +1,7 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Flávio Sanches
+
+Especialista em Gestão Pública e Tecnologia da Informação com mais de 25 anos de experiência no setor público. Certificado em PM4R, ISO 31000, ISO/IEC 27557, 27005, 23894, com formação em Licitações (ENAP) e título de Certified Integrated Risk Manager. Foco em governança, valor público e modernização.
+
 
 <!--
 **worksanches/worksanches** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
